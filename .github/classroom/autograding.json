@@ -1,34 +1,105 @@
 {
-    "tests": [
-      {
-        "name": "parte1",
-        "setup": "sudo -H pip3 install -r requirements.txt",
-        "run": "pytest test_assignment.py::test_hello",
-        "input": "",
-        "output": "",
-        "comparison": "included",
-        "timeout": 5,
-        "points": 1
-      },
-      {
-        "name": "parte2",
-        "setup": "sudo -H pip3 install -r requirements.txt",
-        "run": "pytest test_assignment.py::test_add_two",
-        "input": "",
-        "output": "",
-        "comparison": "included",
-        "timeout": 5,
-        "points": 1
-      },
-      {
-        "name": "parte3",
-        "setup": "sudo -H pip3 install -r requirements.txt",
-        "run": "pytest test_assignment.py::test_zero_array",
-        "input": "",
-        "output": "",
-        "comparison": "included",
-        "timeout": 5,
-        "points": 1
-      }
-    ]
-  }
+  "tests": [
+    {
+      "name": "parte1",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_hello",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte2",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_two",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte3",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_three",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte4",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_four",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte5",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_five",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte6",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_six",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte7",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_seven",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte8",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_eight",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte9",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_nine",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    },
+    {
+      "name": "parte10",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest test_assignment.py::test_add_ten",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 1
+    }
+
+  ]
+}
