@@ -27,3 +27,5 @@ def test_subtract_three_point_five():
 def test_multiply_by_five():
     assert assignment.multiply_by_five(10) == 50
 
+def test_divide_by_seven():
+    assert assignment.multiply_by_five(14) == 2
